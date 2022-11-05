@@ -1,6 +1,6 @@
 ## Hello 👋 moi c'est **Mathilde** !
 
-- 👶 Je suis nouvellement étudiante à  l' ***IIM - Digital School Paris*** <img src="/img_github/footer-iim.png" width="40" /> 
+- 👶 Je suis nouvellement étudiante à l' &ensp; <img src="/img_github/footer-iim.png" width="40" /> 
 - 🔭 Je prépare mon entrée au sein du Mastère **Développeur Fullstack** à la rentrée 2023.
 - 📫 Vous pouvez me contacter à : mathilde@jajolet.fr
 - 💬 Et visualiser mon [ **Linkedin**](https://www.linkedin.com/in/mathilde-jajolet-570263205/) 

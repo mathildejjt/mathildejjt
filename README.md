@@ -4,15 +4,15 @@
 - 👶 Je suis nouvellement étudiante à <img src="/img_github/logo-iim-png-8.png" width="40" /> 
 - 🔭 Je prépare mon entrée au sein du Mastère **Développeur Fullstack** à la rentrée 2023.
 - 📫 Vous pouvez me contacter à : mathilde@jajolet.fr
-- 💬 Et visualiser [mon Profil **Linkedin**](https://www.linkedin.com/in/mathilde-jajolet-570263205/) 
+- 💬 Et visualiser mon [ **Linkedin**](https://www.linkedin.com/in/mathilde-jajolet-570263205/) 
 <br>
 
-> **3 infos me concernant** :
-- 🌱 J'apprends actuellement **HTML / CSS / JS** <img src="/img_github/logos.png" width="40" />
+#### **3 infos me concernant** :
+- 🌱 J'apprends actuellement : **HTML / CSS / JS** <img src="/img_github/logos.png" width="40" />
 - 🧠 J'ai une licence en psychologie
 - 👩‍💻 Je passe mes journées à j̶o̶u̶e̶r̶ **coder** !
  
-> Et je voue un culte à Shadow of the Colossus! 👾 
+> Et je voue un culte à Shadow of the Colossus 👾 
 
 
 
